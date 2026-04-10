@@ -188,17 +188,17 @@ Replace `MONGO_URI` in `.env` with your Atlas connection string.
 - Deploy the `dist/` folder
 - Set `VITE_API_URL` env variable if needed
 
-![alt text](1-1-1.png)
-![alt text](<Student 1-1.png>)
-![alt text](<Student 2-1.png>)
-![alt text](<student 3-1.png>)
-![alt text](<Faculty 1-1.png>)
-![alt text](<faculty 3-1.png>) 
-![alt text](<Faculty 4-1.png>) 
-![alt text](<Admin 1-1.png>)
-![alt text](<Admin 2-1.png>)
-![alt text](<Admin 3-1.png>)
-![alt text](<Admin 4-1.png>)
+![alt text](screenshots/1-1-1.png)
+![alt text](screenshots/Student%201-1.png)
+![alt text](screenshots/Student%202-1.png)
+![alt text](screenshots/student%203-1.png)
+![alt text](screenshots/Faculty%201-1.png)
+![alt text](screenshots/faculty%203-1.png)
+![alt text](screenshots/Faculty%204-1.png)
+![alt text](screenshots/Admin%201-1.png)
+![alt text](screenshots/Admin%202-1.png)
+![alt text](screenshots/Admin%203-1.png)
+![alt text](screenshots/Admin%204-1.png)
  
 
 
