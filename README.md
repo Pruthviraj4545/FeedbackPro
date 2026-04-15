@@ -52,16 +52,6 @@ Backend runs at:  **http://localhost:5000**
 
 ---
 
-## 🔐 Demo Credentials (after seeding)
-
-| Role    | Email                  | Password    |
-|---------|------------------------|-------------|
-| Admin   | admin@feedback.com     | admin123    |
-| Faculty | priya@feedback.com     | faculty123  |
-| Faculty | rahul@feedback.com     | faculty123  |
-| Student | aditya@feedback.com    | student123  |
-| Student | sneha@feedback.com     | student123  |
-
 ---
 
 ## 📁 Project Structure
